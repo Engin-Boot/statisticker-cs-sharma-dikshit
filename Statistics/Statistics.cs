@@ -33,7 +33,7 @@ namespace Statistics
 
             for (int i = 1; i < numbers.Count; i++)
             {
-                if (numbers[i] > max) max = numbers[i];
+                max = Math.Max(numbers[i], max);
             }
 
             return max;
@@ -47,7 +47,7 @@ namespace Statistics
 
             for (int i = 1; i < numbers.Count; i++)
             {
-                if (numbers[i] < min) min = numbers[i];
+                min = Math.Min(numbers[i], min);
             }
 
             return min;
