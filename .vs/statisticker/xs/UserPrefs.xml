@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Statistics/Statistics.cs">
+    <Files>
+      <File FileName="Statistics/Statistics.cs" Line="14" Column="49" />
+      <File FileName="Statistics.Test/StatsUnitTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="statisticker" expanded="True">
+            <Node name="Statistics" expanded="True">
+              <Node name="Statistics.cs" selected="True" />
+            </Node>
+            <Node name="Statistics.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
